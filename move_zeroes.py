@@ -1,5 +1,7 @@
 # https://leetcode.com/problems/move-zeroes/
 
+👺
+
 #<GDSC>
 
 def moveZeroes(nums: list[int]) -> None:
